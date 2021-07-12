@@ -15,5 +15,5 @@ variable "db_read_capacity" {
 
 variable "db_write_capacity" {
   type    = number
-  default = 2
+  default = 1
 }
